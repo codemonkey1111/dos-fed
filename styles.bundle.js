@@ -1,2 +1,1 @@
 (window.webpackJsonp=window.webpackJsonp||[]).push([[4],{19:function(o,p,n){o.exports={layout:"app__layout--36G3x",header:"app__header--240X2",logo:"app__logo--W8fP8",content:"app__content--1hc2K",footer:"app__footer--KyOvZ",index:"app__index--2SFxL",loadingCont:"app__loadingCont--1d8nm"}},32:function(o,p,n){}}]);
-//# sourceMappingURL=styles.bundle.js.map
